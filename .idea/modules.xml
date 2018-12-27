@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mySpringBoot.iml" filepath="$PROJECT_DIR$/.idea/mySpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-merryyou/sso-client1/sso-client1.iml" filepath="$PROJECT_DIR$/sso-merryyou/sso-client1/sso-client1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-merryyou/sso-client2/sso-client2.iml" filepath="$PROJECT_DIR$/sso-merryyou/sso-client2/sso-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-merryyou/sso-merryyou.iml" filepath="$PROJECT_DIR$/sso-merryyou/sso-merryyou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-merryyou/sso-resource/sso-resource.iml" filepath="$PROJECT_DIR$/sso-merryyou/sso-resource/sso-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-merryyou/sso-server/sso-server.iml" filepath="$PROJECT_DIR$/sso-merryyou/sso-server/sso-server.iml" />
+    </modules>
+  </component>
+</project>

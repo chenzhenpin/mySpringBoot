@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Spring-Security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringSecurityOauth2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/datauoauthqq_bean" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oauthserver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-chapter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-learning-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springsecurity-jwt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sso-merryyou" vcs="Git" />
+  </component>
+</project>

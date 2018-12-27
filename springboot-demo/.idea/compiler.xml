@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-druid" />
+        <module name="springboot-helloworld" />
+        <module name="springboot-history" />
+        <module name="springboot-jpa" />
+        <module name="springboot-jsp" />
+        <module name="springboot-jwt" />
+        <module name="springboot-log" />
+        <module name="springboot-oauth2" />
+        <module name="springboot-redis" />
+        <module name="springboot-websocket" />
+        <module name="springtomcat" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="spring-boot-demo" target="1.8" />
+      <module name="springboot-druid" target="1.8" />
+      <module name="springboot-fastdfs" target="1.8" />
+      <module name="springboot-helloworld" target="1.8" />
+      <module name="springboot-history" target="1.8" />
+      <module name="springboot-jpa" target="1.8" />
+      <module name="springboot-jps" target="1.8" />
+      <module name="springboot-jsp" target="1.8" />
+      <module name="springboot-jwt" target="1.8" />
+      <module name="springboot-log" target="1.8" />
+      <module name="springboot-oauth2" target="1.8" />
+      <module name="springboot-redis" target="1.8" />
+      <module name="springboot-web-jsp" target="1.8" />
+      <module name="springboot-websocket" target="1.8" />
+      <module name="springtomcat" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
